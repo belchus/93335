@@ -1,0 +1,12 @@
+CELULAR
+Crear una clase Celular
+Atributos:
+-marca
+-modelo
+-bateria
+
+Metodos:
+usar(): resta 10 de bateria
+cargar(): vuelve la bateria al 100
+
+self.bateria -= 10
